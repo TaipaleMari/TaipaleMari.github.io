@@ -51,6 +51,7 @@ I read this interesting quote the other day:
 * Flour
 * Cheese
 * Tomatoes
+  
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
@@ -63,6 +64,7 @@ I read this interesting quote the other day:
  * A professor
  * Has no hair
  * Often wears green
+   
 * Castafiore
  * An opera singer
  * Has white hair
