@@ -66,7 +66,7 @@ I read this interesting quote the other day:
 
 -----
 
-### 5.Listojen luominen: 
+### 5.Listojen luominen:
 
 Shopping List:
 
@@ -102,7 +102,7 @@ How to list a persons characteristics:
 
 ### 6.Tekstin selkeyttämistä:
 
- 1. Cut the cheese
+1. Cut the cheese
 
  Make sure that the cheese is cut into little triangles.
 
