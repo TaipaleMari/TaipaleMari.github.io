@@ -58,17 +58,17 @@ I read this interesting quote the other day:
 * Cheese
 * Tomatoes
 
-  
+--  
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
 
-
+--
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
 
-
+--
 * Calculus
   * A professor
   * Has no hair
@@ -95,7 +95,7 @@ They dwelt in their strawy pen,
 Nor did it occur to one of us there  
 To doubt they were kneeling then.
 
-
+--
 1. Crack three eggs over a bowl.  
 Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
 If you _do_ make a mess, use a towel to clean it up!
