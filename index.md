@@ -1,6 +1,6 @@
 ## Mari Taipale web-tehtävä
 
-###Tekstin muokkausta
+### Tekstin muokkausta
 
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
@@ -16,7 +16,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.
 
-###Linkkien luomista
+### Linkkien luomista
 
 [Search for it.](www.google.com)
 [You're **really, really** going to want to see this.](www.dailykitten.com)
@@ -36,7 +36,7 @@ Well, do I have [the website for you][another fun place]!
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
-###Lainauksien ja listojen luominen
+### Lainauksien ja listojen luominen
 
 I read this interesting quote the other day:
 
